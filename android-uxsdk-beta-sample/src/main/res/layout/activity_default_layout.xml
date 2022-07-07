@@ -69,7 +69,12 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             tools:layout_editor_absoluteX="-29dp"
-            tools:layout_editor_absoluteY="0dp" />
+            tools:layout_editor_absoluteY="0dp" >
+
+            <dji.ux.beta.core.widget.hsi.PrimaryFlightDisplayWidget
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </dji.ux.beta.core.widget.fpv.FPVWidget>
     </dji.ux.beta.cameracore.widget.fpvinteraction.FPVInteractionWidget>
 
     <dji.ux.beta.core.widget.radar.RadarWidget
