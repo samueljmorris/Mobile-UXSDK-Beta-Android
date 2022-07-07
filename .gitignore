@@ -35,3 +35,4 @@ lint.xml
 # Mac files
 .DS_Store
 
+android-uxsdk-beta-sample/src/main/res/values/keystrings.xml
